@@ -95,14 +95,23 @@ similar as the *horizontal_win*, just in the opposite way.
 - [Lejla Breščić](https://github.com/lejlabrescic)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lejlabrescic/)
 
-
-
 ## Running the project
 
 - To run our project, firstly you need to download Ruby [from the following link](https://www.ruby-lang.org/en/documentation/installation/).
-- To finally run the game, if our Ruby interpreter is installed correctly, in terminal we type: 
 
+- After that, you will need to clone our project and navigate to the folder that contains the project. 
+```bash
+  git clone https://github.com/CausevicAmila/4-in-a-row
+  cd myRubyProject
+```
+- To finally run the game, if our Ruby interpreter is installed correctly, in terminal we type: 
+```bash
 ruby game.rb
+```
+![Logo](https://miro.medium.com/max/1280/1*A5b630g96x9PrhwB9Mvf1w.png)
+
+
+
 
 
 
